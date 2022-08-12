@@ -15,18 +15,20 @@
 
 ## Our solves
 
-| Challenge                         | Category  | Points |
-| --------------------------------- | --------- | ------ |
-| french                            | Crypto    | 100    |
-| Check Check Check                 | Pwnable   | 50     |
-| VISKA                             | Web       | 50     |
-| Before Porta arrives at the port! | Crypto    | 200    |
-| Warmup                            | Reversing | 50     |
-| world                             | Web       | 350    |
-| Travel Japen                      | OSINT     | 250    |
-| Airplane?                         | OSINT     | 400    |
-| Japen Electronic                  | OSINT     | 50     |
-| ro                                | Crypto    | 200    |
-| find me                           | MISC      | 100    |
-| Find us                           | MISC      | 200    |
-| cigarette                         | Web       | 250    |
+| Challenge                                                                       | Category  | Points |
+| ------------------------------------------------------------------------------- | --------- | ------ |
+| [french](crypto/french.md)                                                      | Crypto    | 100    |
+| [Check Check Check](pwnable/check-check-check.md)                               | Pwnable   | 50     |
+| [VISKA](web/viska.md)                                                           | Web       | 50     |
+| [Before Porta arrives at the port!](crypto/before-porta-arrives-at-the-port.md) | Crypto    | 200    |
+| [Warmup](reversing/warmup.md)                                                   | Reversing | 50     |
+| [world](web/world.md)                                                           | Web       | 350    |
+| [Travel Japen](osint/travel-japen.md)                                           | OSINT     | 250    |
+| [Airplane?](osint/airplane.md)                                                  | OSINT     | 400    |
+| [Japen Electronic](osint/japen-electronic.md)                                   | OSINT     | 50     |
+| [ro](crypto/ro.md)                                                              | Crypto    | 200    |
+| [find me](misc/find-me.md)                                                      | MISC      | 100    |
+| [Find us](misc/find-us.md)                                                      | MISC      | 200    |
+| [cigarette](web/cigarette.md)                                                   | Web       | 250    |
+
+All solutions by me unless otherwise stated. 
