@@ -1,5 +1,7 @@
 # T3N4CI0US CTF - Escape (writeups)
 
+### more like a documentation of my descent into insanity and exasperation tbh
+
 ## Our team
 
 | Field         | Value                                                                                                                               |
